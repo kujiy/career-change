@@ -1,0 +1,9 @@
+
+
+.reveal {
+    font-size: 32px;
+}
+
+.reveal section img {
+    max-height:300px;
+}
