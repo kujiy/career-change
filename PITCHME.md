@@ -169,7 +169,7 @@ Twitter転職しようと思ってる人への情報共有
 - 毎日山のような募集ツイートが流れています。
 - ここに応募するのも、Twitter転職。
 - **見栄えする資格がなくてもできます。	**
-- [*エンジニア 募集*](https://twitter.com/search?q=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%E5%8B%9F%E9%9B%86%20&src=typd)で検索！
+- [エンジニア 募集](https://twitter.com/search?q=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%E5%8B%9F%E9%9B%86%20&src=typd)で検索！
 
 ![](recruit.jpg)
 
