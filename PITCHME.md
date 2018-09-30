@@ -1,6 +1,6 @@
 ### はじめてのTwitter転職
 
-@uterned
+@uterned0
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## 自己紹介
 
-- @uterned
+- @uterned0
 - 青森の37歳
 - もとミュージシャン、DTM機器営業
 - 2010年（２９歳）Uターンして青森でSIer常駐
